@@ -11,6 +11,11 @@
 -Instala una variedad de programas mediante winget para que tome menos tiempo configurar todo un equipo luego de una instalacion de windows
 
 ## Como ejecutar el script:
+Primero que nada instalar App installer desde el siguiente link:
+```
+https://apps.microsoft.com/detail/9nblggh4nns1?hl=es-es&gl=CL
+```
+
 
 Para powershell 5 o menor:
 ```
