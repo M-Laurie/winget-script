@@ -92,3 +92,12 @@ winget install -e --id Notepad++.Notepad++
 
 #instalar legion toolkit
 winget install --id=BartoszCichecki.LenovoLegionToolkit  -e
+
+#instalar google chrome
+winget install -e --id Google.Chrome
+
+#instalar opera GX
+winget install -e --id Opera.OperaGX
+
+#instalar WinRar
+winget install -e --id RARLab.WinRAR
