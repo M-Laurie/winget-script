@@ -10,13 +10,13 @@
 
 -Instala una variedad de programas mediante winget para que tome menos tiempo configurar todo un equipo luego de una instalacion de windows
 
-##Prerequisitos
+## Prerequisitos
 
-Primero que nada instalar App installer desde el siguiente link:
+-Primero que nada instalar App installer desde el siguiente link:
 
 [Link de App Installer](https://apps.microsoft.com/detail/9nblggh4nns1?hl=es-es&gl=CL)
 
-Ademas en una terminal powershell iniciada con permisos de administrador ejecutaremos el siguiente comando:
+-Ademas en una terminal powershell iniciada con permisos de administrador ejecutaremos el siguiente comando:
 
 ```
 «Set-ExecutionPolicy Unrestricted»
