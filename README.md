@@ -19,7 +19,7 @@
 -Ademas en una terminal powershell iniciada con permisos de administrador ejecutaremos el siguiente comando:
 
 ```
-«Set-ExecutionPolicy Unrestricted»
+Set-ExecutionPolicy Unrestricted
 ```
 
 ## Como ejecutar el script:
