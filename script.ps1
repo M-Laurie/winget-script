@@ -101,3 +101,6 @@ winget install -e --id Opera.OperaGX
 
 #instalar WinRar
 winget install -e --id RARLab.WinRAR
+
+#instalar sporify
+winget install -e --id Spotify.Spotify
