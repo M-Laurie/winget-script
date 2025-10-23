@@ -81,9 +81,6 @@ winget install Zoom.Zoom
 #instalar discord
 winget install -e --id Discord.Discord
 
-#instalar office (experimental)
-winget install 9WZDNCRD29V9
-
 #instalar whatsapp
 winget install -e --id WhatsApp.WhatsApp
 
@@ -102,5 +99,29 @@ winget install -e --id Opera.OperaGX
 #instalar WinRar
 winget install -e --id RARLab.WinRAR
 
-#instalar sporify
+#instalar spotify
 winget install -e --id Spotify.Spotify
+
+#instalar docker desktop
+winget install --id=Docker.DockerDesktop  -e
+
+#instalar node
+winget install --id=OpenJS.NodeJS  -e
+
+#instalar postman
+winget install --id=Postman.Postman  -e
+
+#instalar winSCP
+winget install --id=WinSCP.WinSCP  -e
+
+#instalar arduinoIDE
+winget install --id=ArduinoSA.IDE.stable  -e
+
+#instalar Atlus
+winget install --id=AmanHarwara.Altus  -e
+
+#instalar ToolBox
+winget install --id=JetBrains.Toolbox  -e
+
+#instalar nileSoft Shell
+winget install --id=Nilesoft.Shell  -e
