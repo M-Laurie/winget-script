@@ -70,7 +70,7 @@ winget install Microsoft.Powertoys
 winget install Microsoft.VisualStudioCode
 
 #instalar java
-winget install Oracle.JavaRuntimeEnvironment
+winget install Microsoft.OpenJDK.17
 
 #instalar steam
 winget install Valve.Steam
