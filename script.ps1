@@ -125,3 +125,6 @@ winget install --id=JetBrains.Toolbox  -e
 
 #instalar nileSoft Shell
 winget install --id=Nilesoft.Shell  -e
+
+#instalar python
+winget install -e --id Python.Python.3
